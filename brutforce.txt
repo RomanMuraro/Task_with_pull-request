@@ -2,3 +2,13 @@
 #include <cstdlib>
 using namespace std;
 
+int m3(){
+    char a1;
+    char a2;
+    char a3;
+    char b1=0;
+    char b2=0;
+    char b3=0;
+    cin>>a1>>a2>>a3;
+    int searches =0;
+    char all[]{"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!#$%&()+,-./:;<>?@[]^_{}|~"};//89 символов
