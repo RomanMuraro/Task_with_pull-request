@@ -1,6 +1,58 @@
-#include <iostream>
-#include <cstdlib>
-using namespace std;
+
+
+
+
+
+
+
+
+
+
+
+
+
+for(int i=0 ;i<89;i++){
+for(int j=0;j<89;j++){
+for (int k=0;k<89;k++){
+
+b1=all[i];
+b2=all[j];
+b3=all[k];
+searches++;
+if (a1==b1 and a2==b2 and a3==b3){
+cout«b1«b2«b3«endl;
+cout«searches«endl;;
+
+
+}
+}
+}
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 int m3(){
     char a1;
